@@ -9,3 +9,6 @@ Projeto que exibe o clima em tempo real de algumas cidades brasileiras usando a 
 ## Tecnologias
 - HTML, CSS, JavaScript
 - API: OpenWeatherMap
+
+## Link Online  
+[Acesse o Dashboard aqui](https://acdliz.github.io/dashboard-clima/)
